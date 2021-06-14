@@ -1,0 +1,17 @@
+.logo {
+    text-align: center;
+    background: red;
+}
+
+.logo-img {
+    width: 35%;
+}
+
+nav {
+    background: green;
+}
+
+.item-hover:hover {
+    background: #FFFFFF;
+    color: black!important;
+}
